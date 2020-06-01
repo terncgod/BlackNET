@@ -54,23 +54,12 @@ Free advanced and modern Windows botnet with a nice and secure PHP panel develop
 1. Clone this Repo
 2. Compress BlackNET panel folder and upload it to your hosting
 3. Create a database with any name you want
-4. Change the database information and app path in config/config.sample.php
+4. Change the database information in config/config.sample.php
 5. Rename config.sample.php to config.php
 6. Change files and folders permission to 777 [ Uploads Folder, Scripts Folder ]
 7. Make Sure that all DLLs are included in Plugins Folder
 8. Go to install.php to create the botnet tables automatically
 9. Enable a Cron Job for ping.php and remove.php
-
-## How to get the APP_PATH
-1. create a new file call it ```getfile.php```
-2. add this code inside it
-```php
-<?php
-
-echo __DIR__;
-```
-3. Save the file then
-4. Run the file in the browser and you will get the APP_PATH
 
 ## How to secure BlackNET
 1. Remove install.php and update.php
@@ -91,8 +80,6 @@ Pattern Example:
 
 
 ## YouTube Tutorials
-[How to install BlackNET v3.5.1](https://youtu.be/3yUYK5PN4YU)
-
 [How to obfuscate BlackNET](https://www.youtube.com/watch?v=hzC8_UYGor0)
 
 [How to Setup BlackNET Cron Job System](https://www.youtube.com/watch?v=rHCYGRA1h54)
