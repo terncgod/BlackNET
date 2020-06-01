@@ -80,6 +80,8 @@ Pattern Example:
 
 
 ## YouTube Tutorials
+[How to install BlackNET v3.5.1](https://youtu.be/cijbJ7s6IXA)
+
 [How to obfuscate BlackNET](https://www.youtube.com/watch?v=hzC8_UYGor0)
 
 [How to Setup BlackNET Cron Job System](https://www.youtube.com/watch?v=rHCYGRA1h54)
